@@ -17,7 +17,7 @@ cd guess-number
 go mod tidy
 
 # Запуск
-go run .
+go run main.go
 ```
 
 > **Windows:** команды выполняются в PowerShell/Terminal аналогично.  
